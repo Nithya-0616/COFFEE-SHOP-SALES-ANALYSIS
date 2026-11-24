@@ -121,6 +121,43 @@ The repository contains:
 
 Microsoft Excel | Data Cleaning | Data Analysis | Pivot Tables | Data Visualization | Dashboard Development | Exploratory Data Analysis | Business Intelligence
 
+## 12. Project Results
+
+The analysis provides an overview of coffee shop sales performance across six months of transactional data.
+
+Key results include:
+
+- **Total Sales Revenue:** $698,812.33
+- **Total Transactions:** 149,116
+- **Total Quantity Sold:** 214,470
+- **Top Product Category:** Coffee
+- **Highest Sales Month:** June
+- **Peak Sales Hour:** 10 AM
+- **Best Performing Store:** Hell's Kitchen
+
+## 13. Skills Demonstrated
+
+- Microsoft Excel
+- Data Cleaning and Validation
+- Exploratory Data Analysis (EDA)
+- Excel Formulas and Functions
+- Pivot Tables and Pivot Charts
+- KPI Development
+- Data Visualization
+- Interactive Dashboard Development
+- Business Analysis and Insights
+
+## 14. About the Author
+
+**Nithya Sreenath**
+
+Aspiring Data Analyst with an interest in transforming raw data into meaningful business insights through data analysis and visualization.
+
+**Technical Skills:** Microsoft Excel | SQL | Python | Power BI | Tableau
+
+
+
+
 
 
 ### Dashboard Preview
