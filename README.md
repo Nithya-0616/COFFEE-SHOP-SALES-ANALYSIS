@@ -158,7 +158,7 @@ Aspiring Data Analyst with an interest in transforming raw data into meaningful 
 
 ### Connect with Me
 
-- **LinkedIn:** [Nithya Sreenath](www.linkedin.com/in/nithyasreenath)
+- **LinkedIn:** - **LinkedIn:** [Nithya Sreenath](https://www.linkedin.com/in/nithyasreenath/)
 - **GitHub:** [My GitHub Profile](https://github.com/nithya16-sql)
 
 
