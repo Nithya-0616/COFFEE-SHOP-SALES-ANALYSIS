@@ -100,3 +100,7 @@ The repository contains:
 
 Skills: Microsoft Excel | Data Analysis | Data Visualization | Exploratory Data Analysis
 
+### Dashboard Preview
+
+![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales%20Dashboard.jpg)
+
