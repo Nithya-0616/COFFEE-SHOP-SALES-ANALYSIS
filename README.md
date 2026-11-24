@@ -62,43 +62,64 @@ The project explores different aspects of coffee shop sales performance, includi
 
 ## 7. Key Performance Indicators (KPIs)
 
-The dashboard focuses on monitoring important business performance indicators, including relevant sales and transaction metrics available in the dataset.
+The dashboard tracks the following key performance indicators to evaluate coffee shop sales performance:
+
+| KPI | Value |
+|---|---:|
+| Total Sales Revenue | $698,812.33 |
+| Total Orders | 149,116 |
+| Total Quantity Sold | 214,470 |
+| Top Product Category | Coffee |
+
+These metrics provide an overview of revenue generation, transaction volume, product demand, and category performance.
 
 ## 8. Dashboard and Data Visualization
 
-An Excel dashboard was developed to present the analysis through visual representations of sales data.
+An interactive sales dashboard was designed using Microsoft Excel to present key business metrics and sales trends in a visually accessible format.
 
-The dashboard provides a consolidated view of business performance and makes it easier to identify trends, compare sales performance, and interpret important metrics.
+The dashboard includes the following visualizations:
+
+- Monthly Sales Trend – Tracks sales performance from January to June 2023.
+- Sales by Product Category – Compares sales contribution across product categories.
+- Top 3 Products by Sales – Highlights the leading products based on sales.
+- Peak Sales Hour – Identifies hours with higher sales activity.
+- Sales by Store Location – Compares sales performance across store locations.
+
+Interactive slicers allow users to explore the data by month, store location, and product category.
 
 ## 9. Key Insights
 
-The analysis is intended to highlight:
-- Products contributing significantly to sales.
-- Changes in sales performance over time.
-- Differences in performance across available business categories.
-- Purchasing patterns within the transactional data.
-- Potential areas for improving business performance.
+The dashboard highlights several important observations:
 
+- Coffee is the leading product category in terms of sales contribution.
+- June recorded the highest monthly sales, showing an upward sales trend during the first half of 2023.
+- Sales activity peaks around 10 AM, indicating a significant morning sales period.
+- Hell's Kitchen recorded the highest sales among the three store locations.
+- The top three products account for substantial sales contributions within the product mix.
+  
 ## 10. Business Recommendations
 
-The findings can help coffee shop management:
-- Identify products with strong sales performance.
-- Understand changing sales patterns.
-- Improve inventory and product planning.
-- Evaluate store-level performance.
-- Make informed decisions using sales data.
+Based on the analysis, the following business recommendations can be considered:
 
+- Prioritise inventory planning for high-performing coffee products.
+- Align staffing and operational resources with peak sales hours.
+- Monitor monthly sales trends to support demand forecasting.
+- Evaluate store-level performance to identify opportunities for improvement.
+- Review product performance regularly to optimise product offerings.
+  
 ## 11. Project Files
 
 The repository contains:
-- Original sales dataset.
-- Excel analysis workbook.
-- Interactive dashboard.
-- Dashboard screenshots.
-- Project documentation.
+
+- `Coffee Shop Sales Data Set.xlsx` – Original transactional sales dataset.
+- `Coffee Shop Sales Dashboard.jpg` – Dashboard preview showcasing the analysis and visualizations.
+- `README.md` – Project overview, objectives, methodology, KPIs, and documentation.
+
+### Skills Demonstrated
+
+Microsoft Excel | Data Cleaning | Data Analysis | Pivot Tables | Data Visualization | Dashboard Development | Exploratory Data Analysis | Business Intelligence
 
 
-Skills: Microsoft Excel | Data Analysis | Data Visualization | Exploratory Data Analysis
 
 ### Dashboard Preview
 
