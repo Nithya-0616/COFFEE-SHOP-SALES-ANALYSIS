@@ -115,6 +115,8 @@ The repository contains:
 - `Coffee Shop Sales Dashboard.jpg` – Dashboard preview showcasing the analysis and visualizations.
 - `README.md` – Project overview, objectives, methodology, KPIs, and documentation.
 
+- [Analysis Methodology](Analysis_Methodology.md) – Detailed explanation of the dataset, validation, analysis approach, KPIs and dashboard development.
+
 ### Skills Demonstrated
 
 Microsoft Excel | Data Cleaning | Data Analysis | Pivot Tables | Data Visualization | Dashboard Development | Exploratory Data Analysis | Business Intelligence
