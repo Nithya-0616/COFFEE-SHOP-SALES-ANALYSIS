@@ -155,11 +155,10 @@ Aspiring Data Analyst with an interest in transforming raw data into meaningful 
 
 **Technical Skills:** Microsoft Excel | SQL | Python | Power BI | Tableau
 
-**Technical Skills:** Microsoft Excel | SQL | Python | Power BI | Tableau
 
 ### Connect with Me
 
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/nithyasreenath)
+- **LinkedIn:** [Nithya Sreenath](www.linkedin.com/in/nithyasreenath)
 - **GitHub:** [My GitHub Profile](https://github.com/nithya16-sql)
 
 
